@@ -1,0 +1,8 @@
+name: Housing
+version: ${project.version}
+main: me.Strobe.Housing
+depend:
+  - WorldGuard
+  - WorldEdit
+commands:
+  home:

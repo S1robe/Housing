@@ -1,0 +1,14 @@
+# This is the default housing file,
+# houses are stored in the following format:
+#
+# RegionNameFromWorldGuard:
+#    Owner: UUID
+#    Start-Time-MS: 0 (Start time in MS, this is the server time at time of purchase)
+#    Location: World-X-Y-Z
+#    User-Set-Location: World-X-Y-Z
+#    Price: Decimal (Ex. 200.00)
+#    PurchaseTime-Days: 7
+#    TimeLeft-Days: 7
+#    Members: []
+#    Blacklist: []
+#
